@@ -4,12 +4,10 @@
         "color": "yellow"
     },
     {
-        "content": "A horse",
-        "color": "stone"
+        "content": "A horse"
     },
     {
-        "content": "A penguin",
-        "color": "gray"
+        "content": "A penguin"
     },
     {
         "content": "A bear",
@@ -20,8 +18,7 @@
         "color": "orange"
     },
     {
-        "content": "A dog",
-        "color": "gray"
+        "content": "A dog"
     },
     {
         "content": "A dragon",
@@ -38,5 +35,24 @@
     {
         "content": "A tiger",
         "color": "orange"
+    },
+    {
+        "content": "A skunk"
+    },
+    {
+        "content": "A possum"
+    },
+    {
+        "content": "A deer"
+    },
+    {
+        "content": "A raccoon"
+    },
+    {
+        "content": "A beetle"
+    },
+    {
+        "content": "A dinosaur",
+        "color": "green"
     }
 ]

@@ -17,7 +17,7 @@ class DoodlesSeeder extends Seeder
             Noun::updateOrCreate([
                 'content' => $i['content'],
             ], [
-                'color' => $i['color'],
+                'color' => $i['color'] ?? 'gray',
             ]);
         });
 
