@@ -1,0 +1,42 @@
+[
+    {
+        "content": "A duck",
+        "color": "yellow"
+    },
+    {
+        "content": "A horse",
+        "color": "stone"
+    },
+    {
+        "content": "A penguin",
+        "color": "gray"
+    },
+    {
+        "content": "A bear",
+        "color": "orange"
+    },
+    {
+        "content": "A cat",
+        "color": "orange"
+    },
+    {
+        "content": "A dog",
+        "color": "gray"
+    },
+    {
+        "content": "A dragon",
+        "color": "purple"
+    },
+    {
+        "content": "A fish",
+        "color": "blue"
+    },
+    {
+        "content": "An ant",
+        "color": "red"
+    },
+    {
+        "content": "A tiger",
+        "color": "orange"
+    }
+]
